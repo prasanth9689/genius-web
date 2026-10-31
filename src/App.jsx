@@ -173,7 +173,7 @@ function AppShell() {
           </div>
           <div className="popover-wrap">
             <button className="profile-trigger" onClick={() => { setProfileMenu(!profileMenu); setNotifications(false) }} aria-expanded={profileMenu}>
-              <span className="avatar">PS</span><span className="profile-trigger-name">Priya Sharma</span><ChevronDown size={15} />
+              <span className="avatar">PS</span><span className="profile-trigger-name">Vishwa</span><ChevronDown size={15} />
             </button>
             {profileMenu && <div className="popover profile-popover">
               <div className="popover-user"><span className="avatar">PS</span><span><strong>Priya Sharma</strong><small>Candidate account</small></span></div>

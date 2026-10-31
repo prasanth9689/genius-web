@@ -92,7 +92,7 @@ export const jobs = Array.from({ length: 60 }, (_, index) => {
 })
 
 export const mockUser = {
-  name: 'Priya Sharma',
+  name: 'vishwa',
   headline: 'Product-minded software professional',
   location: 'Chennai, India',
   experience: 4,
